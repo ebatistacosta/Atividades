@@ -1,0 +1,27 @@
+body {
+    text-align: center;
+    
+    
+}
+
+p.note {
+    color: red;
+    font-size: 20px;
+}
+
+li.note[value="2"] {
+    font-size: 20px;
+}
+#id-selector-demo{
+    color: green;
+    font-size: 20px;
+}
+
+li.note[value="4"]{
+    color: blue;
+    font-size: 20px;
+}
+
+li.note[value="5"]{
+    font-size: 20px;
+}
