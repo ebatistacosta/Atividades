@@ -1,0 +1,20 @@
+.box {
+    background-color: blue;
+    padding: 3px;
+  }
+  
+  p {
+    color: yellow;
+    margin: 0;
+    padding: 0;
+  }
+
+  .white-text {
+    background-color: red;
+    color: white;
+    padding: 5px;
+  }
+
+  #outer-box {
+    border: 8px solid purple;
+  }
